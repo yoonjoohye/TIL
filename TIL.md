@@ -23,3 +23,8 @@ APP DRAWING Oven - [HTML5-Powered Web/App Prototyping Tool](https://ovenapp.io/)
 # Today I Learn
 
 [React props, state](https://velopert.com/3629)
+
+# Today I Learn
+
+DJANGO INSTALL
+[Django 설치하기 · Django Girls Tutorial](https://tutorial.djangogirls.org/ko/django_installation/)
