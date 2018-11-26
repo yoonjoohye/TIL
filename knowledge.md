@@ -11,14 +11,21 @@
 
 # Today I Learn
 npm 
+
 Node Packeged Manager: Node.js로 만들어진 pakage(모듈)를 관리해주는 툴
+
 Java의 Maven과 유사
+
 필요한 라이브러리를 웹에서 검색할 필요없음
 
 
 # Today I Learn
 npm install -g create-react-app
+
 create-react-app 디렉토리명
+
 cd 디렉토리명
+
 npm start || yarn start  //서버 켜짐
+
 cd 디렉토리명 code . //디렉토리 vsc 열어짐
