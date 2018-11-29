@@ -29,3 +29,7 @@ cd 디렉토리명
 npm start || yarn start  //서버 켜짐
 
 cd 디렉토리명 code . //디렉토리 vsc 열어짐
+
+
+# Today I Learn
+npm 모듈 설치 시 --save 붙이면 package.json에 자동 업 
