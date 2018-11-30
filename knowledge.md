@@ -32,4 +32,9 @@ cd 디렉토리명 code . //디렉토리 vsc 열어짐
 
 
 # Today I Learn
-npm 모듈 설치 시 --save 붙이면 package.json에 자동 업 
+npm 모듈 설치 시 --save 붙이면 package.json에 자동 업데이트
+
+
+# Today I Learn
+브라우저 호환
+Promise 중 es6-promise, bluebird 등이 있음
