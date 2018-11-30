@@ -10,6 +10,7 @@
 
 
 # Today I Learn
+
 npm 
 
 Node Packeged Manager: Node.js로 만들어진 pakage(모듈)를 관리해주는 툴
@@ -20,6 +21,7 @@ Java의 Maven과 유사
 
 
 # Today I Learn
+
 npm install -g create-react-app
 
 create-react-app 디렉토리명
@@ -32,9 +34,12 @@ cd 디렉토리명 code . //디렉토리 vsc 열어짐
 
 
 # Today I Learn
+
 npm 모듈 설치 시 --save 붙이면 package.json에 자동 업데이트
 
 
 # Today I Learn
+
 브라우저 호환
+
 Promise 중 es6-promise, bluebird 등이 있음
