@@ -50,4 +50,10 @@ Promise 중 es6-promise, bluebird 등이 있음
 MVVM (Model View ViewModel) 패턴
 
 v <-> vm <-> m
+
 view(dom으로 화면 ) -> 가상dom(특정 로직을 수행) -> Model(서버 데이터를 JS객체 저장) -> 데이터바인딩(view에 모델의 데이터 동기화) -> view(사용자에게 보임)
+
+
+# Today I Learn
+
+noSQL=MongoDB
