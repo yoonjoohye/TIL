@@ -66,9 +66,15 @@ noSQL=MongoDB
 HTTP 상태코드
 
 1XX: Informational
+
 2XX: Success
+
 3XX: Redirection
+
 301(영구 이동): 요청한 페이지를 새 위치로 영구적으로 이동했다. GET 또는 HEAD 요청에 대한 응답으로 이 응답을 표시하면 요청자가 자동으로 새 위치로 전달된다.
+
 302(임시 이동): 현재 서버가 다른 위치의 페이지로 요청에 응답하고 있지만 요청자는 향후 요청 시 원래 위치를 계속 사용해야 한다.
+
 4XX: client-error
+
 5XX: server-error
