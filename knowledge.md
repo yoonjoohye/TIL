@@ -78,3 +78,19 @@ HTTP 상태코드
 4XX: client-error
 
 5XX: server-error
+
+
+# Today I Learn
+
+javascript
+
+undefined: 변수 선언은 되었지만, 값은 할당 받지 않은것
+
+null: 변수 선언, 정의했지만, 값을 제거한 것/ 객체
+
+
+# Today I Learn
+
+rem : 최상위 요소의 크기의 배수
+
+em: 바로 윗 상위 요소의 크기의 배수
