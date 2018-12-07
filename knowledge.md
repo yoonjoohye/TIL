@@ -63,7 +63,7 @@ noSQL=MongoDB
 
 # Today I Learn
 
-HTTP 상태코드
+HTTP 상태코드(HTTP Response Status Code)
 
 1XX: Informational
 
