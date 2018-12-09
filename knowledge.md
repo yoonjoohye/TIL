@@ -100,3 +100,15 @@ pt, px
 rem : 최상위 요소의 크기의 배수
 
 em: 바로 윗 상위 요소의 크기의 배수
+
+# Today I Learn
+
+Vue 라이프사이클
+
+create
+
+mount
+
+update
+
+destroy
