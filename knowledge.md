@@ -103,12 +103,13 @@ em: 바로 윗 상위 요소의 크기의 배수
 
 # Today I Learn
 
-Vue 라이프사이클
+RESTful API
 
-create
+REST API 규칙
 
-mount
+1. URI는 정보의 자원을 표현
 
-update
+2. 자원에 대한 행위는 HTTP Method(GET, POST, PUT, DELETE 등)으로 표현
 
-destroy
+restful api 설명[https://poiemaweb.com/js-rest-api]
+
