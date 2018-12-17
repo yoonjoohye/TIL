@@ -113,3 +113,19 @@ REST API 규칙
 
 restful api 설명[https://poiemaweb.com/js-rest-api]
 
+
+# Today I Learn
+
+상태관리
+
+-컴포넌트간 데이터 공유, 이벤트 처리를 관리하기 쉽게 구조화한것
+
+-state: 컴포넌트간 공유될 데이터
+
+-view: 데이터가 표현될 템플릿
+
+-method: 사용자 입력에 반응할 메서드
+
+예(vue-vuex, react-redux)
+
+
