@@ -128,4 +128,12 @@ restful api 설명[https://poiemaweb.com/js-rest-api]
 
 예(vue-vuex, react-redux)
 
+# Today I Learn
 
+virtual dom
+
+-실제 DOM의 조작을 최소화
+
+-바뀐 부분만 업데이트
+
+-훨신 효율적임
