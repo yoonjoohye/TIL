@@ -150,8 +150,20 @@ less
 - 지역, 전역 구분이 있음
 
 - 선택자 중첩하여 상위 선택자를 반복 입력하지 않아도 됨
+  
+   #header{
+ 
+    p{}
+    
+    h1{}
+    
+   }
 
 - mixin (반복되는 코드들을 하나의 변수로 잡아 그 변수로 코드 재사용)
+
+  .btn{}
+  
+  #header{.btn;}
 
 
 # Today I Learn
@@ -159,4 +171,9 @@ less
 mode:history
 
 #/name 이런식 말고 기본적인 url 방식 제공
+
+
+# Today I Learn
+
+변수명....
 
