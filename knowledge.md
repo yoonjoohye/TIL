@@ -19,6 +19,16 @@ Java의 Maven과 유사
 
 필요한 라이브러리를 웹에서 검색할 필요없음
 
+ex) 패키지 매니저
+
+php : composer
+
+python : pip
+  
+node : npm, yarn
+
+ruby : gems
+
 
 # Today I Learn
 
@@ -104,6 +114,9 @@ em: 바로 윗 상위 요소의 크기의 배수
 # Today I Learn
 
 RESTful API
+
+한눈에 봤을때 이 경로는 이런것이다! 하고 예측할 수 있는 경로로 표현한 것
+
 
 REST API 규칙
 
