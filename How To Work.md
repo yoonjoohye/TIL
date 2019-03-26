@@ -11,12 +11,14 @@
 
 - daily-scrum(오늘 해야하는 일 적기)
 
+- 페이스 조절 
+
 
 코딩하는 법
-
 - style 요소는 쓰지 않는다
 
 - html : "" / style : '' / javascript : ''
 
 - console.log는 지운다
+
 
