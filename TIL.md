@@ -31,11 +31,11 @@
 
 [vue 개발자 도구](https://chrome.google.com/webstore/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd/related?hl=ko)
 
-[vue](https://kr.vuejs.org/v2/guide/index.html)
+[vue 문서](https://kr.vuejs.org/v2/guide/index.html)
 
-[vue lifecycle](https://deafjwhong.tistory.com/73)
+[vue 라이프사이클](https://deafjwhong.tistory.com/73)
 
-[vue npm](https://www.npmjs.com/package/vue)
+[vue npm 모음집](https://www.npmjs.com/package/vue)
 
 
 # Laravel
