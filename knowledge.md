@@ -221,7 +221,7 @@ mode:history
 
 Vue로 애니메이션 적용하기
 
-<trasition name="fade">...</transition>
+< trasition name="fade" >...< /transition >
 
 .fade-enter-active, .fade-leave-active {...}
 
