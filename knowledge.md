@@ -188,7 +188,7 @@ mode:history
 
 # Today I Learn
 
-코딩컨벤션 사용하기!!!!!!!!!! ((((진짜 중요))))[https://github.com/nhnent/fe.javascript/wiki/%EC%BD%94%EB%94%A9-%EC%BB%A8%EB%B2%A4%EC%85%98]
+코딩컨벤션[https://github.com/nhnent/fe.javascript/wiki/%EC%BD%94%EB%94%A9-%EC%BB%A8%EB%B2%A4%EC%85%98]
 
 들여쓰기
 
@@ -215,3 +215,15 @@ mode:history
   -반환 값이 불린인 함수는 'is'로 시작
   
   -private은 '_'로 시작
+  
+  
+# Today I Learn
+
+Vue로 애니메이션 적용하기
+
+<trasition name="fade">...</transition>
+
+.fade-enter-active, .fade-leave-active {...}
+
+.fade-enter, .fade-leave-to{...}
+
