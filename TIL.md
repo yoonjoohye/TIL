@@ -41,3 +41,7 @@
 # Laravel
 
 [packagist](https://packagist.org/)
+
+# Typescript
+
+[typescript](https://www.typescriptlang.org)
