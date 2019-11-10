@@ -32,7 +32,7 @@
 
 - console.log는 지운다
 
-- naver SEO 조치사항과 맞게 코딩
+- SEO 조치사항과 맞게 코딩
 
 - php : 언더바 표기법 / html,css,js : camel 표기법
 
