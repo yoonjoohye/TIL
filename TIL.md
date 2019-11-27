@@ -50,3 +50,7 @@
 # Node.js
 [node.js](https://m.blog.naver.com/kangminser88/221146020394)
 [사용법](https://wanago.io/2018/12/03/typescript-express-tutorial-routing-controllers-middleware/?fbclid=IwAR1N1pfMdrymLU_kZu18ln_xUuORCxe4DGucSLPIeamwDXEJY9NMSfXJ7RY)
+
+
+# Nuxt.js
+[nuxt.js-guide]https://vue-nuxt.gitbook.io/nuxt/structure
