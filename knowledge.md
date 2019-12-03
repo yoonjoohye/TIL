@@ -111,6 +111,7 @@ rem : 최상위 요소의 크기의 배수
 
 em: 바로 윗 상위 요소의 크기의 배수
 
+
 # Today I Learn
 
 RESTful API
@@ -140,6 +141,7 @@ restful api 설명[https://poiemaweb.com/js-rest-api]
 -method: 사용자 입력에 반응할 메서드
 
 예(vue-vuex, react-redux)
+
 
 # Today I Learn
 
@@ -237,6 +239,7 @@ nuxt.js
 <div id='app'> 안에 넣어주는 형태인 SPA는 SEO에 걸리기 어렵게 되어있다.
 
 이를 해결하기 위해 구글봇이 읽기 전에 서버에서 미리 렌더링 해주는 서버사이드 렌더링으로 Nuxt.js가 나옴
+
 
 # Today I Learn
 
