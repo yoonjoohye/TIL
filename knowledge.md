@@ -96,7 +96,7 @@ javascript
 
 undefined: 변수 선언은 되었지만, 값은 할당 받지 않은것 / 변수 자체 값 undefined
 
-null: 변수 선언, 정의했지만, 값이 null인 것/ 객체
+null: 값이 정의 조차 안 된것
 
 
 # Today I Learn
