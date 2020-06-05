@@ -16,10 +16,4 @@
 - 언제, 무엇을 했는지 캘린더에 정리하기
 - 업무진행 공유하기
 
-코딩하는 법
-- style 요소는 쓰지 않는다
-- html : "" / style : '' / javascript : ''
-- console.log는 지운다
-- SEO 조치사항과 맞게 코딩
-- php : 언더바 표기법 / html,css,js : camel 표기법
 
