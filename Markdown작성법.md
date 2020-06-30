@@ -178,14 +178,30 @@ __굵게__
   
   
 # 7. 링크
+
+### 7.1 하이퍼링크
 - 사용법
 
 ```
-  [이름](URI)
+  [제목](URI)
+  
   [윤주혜깃허브](https://github.com/yoonjoohye)
 ```
 
 - 결과
 
 [이름](URI)
+
 [윤주혜깃허브](https://github.com/yoonjoohye)
+
+### 7.1 이메일
+
+- 사용법
+
+```
+  이메일예시 : <example@gmail.com>
+```
+
+- 결과
+
+이메일예시 : <example@gmail.com>
