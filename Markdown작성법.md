@@ -206,3 +206,21 @@
 - 결과
 
   이메일예시 : <example@gmail.com>
+
+
+# 8 뱃지 추가
+
+https://shields.io/ 에서 뱃지를 만들고 링크를 복사한다.
+
+- 사용법
+
+  ```
+  <img src="https://img.shields.io/badge/likes-100%2B-%23ff69b4"/>
+  ```
+
+- 결과
+
+  <img src="https://img.shields.io/badge/likes-100%2B-%23ff69b4"/>
+
+
+
